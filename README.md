@@ -1,4 +1,15 @@
 # -NLP-Amazon_Fashion_Recommendation_System
+Natural Language Processing project
+
+This Project involves all the Text_Analysis and Pre-processing steps:
+Such as
+Tokenization
+Stemming
+Lemmatization
+Bag-of-Words
+IDF
+TF-IDF
+and finally using Keras as well as TensorFlow as the background.
 1. Worked on 183K with 19 features dataset where I have performed Data cleaning and understanding missing data in various features also removed duplicated rows.
 2. Text-Preprocessing (Tokenization),
 3. Stop words removal
