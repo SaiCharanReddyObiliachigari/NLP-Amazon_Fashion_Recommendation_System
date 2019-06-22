@@ -9,4 +9,4 @@
 8. TF-IDF weighted Word2Vec and using color and brand of the products.
 9. Also performed Deep Learning based visual product similarity (CNN) to find image edge, shapes and parts on the product.  
 10.Used Keras + TensorFlow to extract features. 
-11.Finally concluded using A/B testing for finding the best model.    
+11.Finally concluded using A/B testing for finding the best model
